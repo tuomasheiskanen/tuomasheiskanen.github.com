@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Sluiba Oy
 description: Tyhmä paljon töitä tekee, Sluiba pääsee vähemmällä!
+github: 
+  is_project_page: false
